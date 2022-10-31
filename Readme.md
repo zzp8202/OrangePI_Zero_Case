@@ -1,11 +1,11 @@
+OrangePI_Zero_Case
+
 ![photo1](Photo/IMG_5579.jpg)
 ![photo2](Photo/IMG_5580.jpg)
 ![photo3](Photo/IMG_5581.jpg)
 ![photo4](Photo/IMG_5582.jpg)
 ![photo5](Photo/IMG_5583.jpg)
-![photo5](Photo/Orange PI Zero Case.png)
-
-OrangePI_Zero_Case
+![photo5](Photo/OrangePI_Zero_Case.png)
 
 
  Bill of Materials (BOM)
